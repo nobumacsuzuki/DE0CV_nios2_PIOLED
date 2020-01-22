@@ -1,33 +1,33 @@
 #Quartus intermediate files
-/db/
-/incremental_db/
-/output_files/
-/simulation/
+db/
+incremental_db/
+output_files/
+simulation/
 c5_pin_model_dump.txt
 *.qws
 
 #Platform Designer Intermadiate files
 *.sopcinfo
-/.qsys_edit/
-/nios2_PIOLED_qsys/
+.qsys_edit/
+nios2_PIOLED_qsys/
 
 #Nios Software Builder tools intermedate files
-/software/nios2_PIOLED_sw_bsp/obj/
-/software/nios2_PIOLED_sw_bsp/HAL/
-/software/nios2_PIOLED_sw_bsp/driver/
-/software/nios2_PIOLED_sw_bsp/*.a
-/software/nios2_PIOLED_sw_bsp/summary.html
-/software/nios2_PIOLED_sw_bsp/Makefile
-/software/nios2_PIOLED_sw_bsp/mem_init.mk
-/software/nios2_PIOLED_sw_bsp/public.mk
-/software/nios2_PIOLED_sw_bsp/system.h
+software/nios2_PIOLED_sw_bsp/obj/
+software/nios2_PIOLED_sw_bsp/HAL/
+software/nios2_PIOLED_sw_bsp/driver/
+software/nios2_PIOLED_sw_bsp/*.a
+software/nios2_PIOLED_sw_bsp/summary.html
+software/nios2_PIOLED_sw_bsp/Makefile
+software/nios2_PIOLED_sw_bsp/mem_init.mk
+software/nios2_PIOLED_sw_bsp/public.mk
+software/nios2_PIOLED_sw_bsp/system.h
 
-/software/nios2_PIOLED_sw/obj/
-/software/nios2_PIOLED_sw/*.map
-/software/nios2_PIOLED_sw/*.elf
-/software/nios2_PIOLED_sw/*.objdump
+software/nios2_PIOLED_sw/obj/
+software/nios2_PIOLED_sw/*.map
+software/nios2_PIOLED_sw/*.elf
+software/nios2_PIOLED_sw/*.objdump
 
-/software/.metadata/.plugins/*
-!/software/.metadata/.plugins/org.eclipse.core.resources/
+software/.metadata/.plugins/*
+!software/.metadata/.plugins/org.eclipse.core.resources/
 
-/software/RemoteSystemsTempFiles/
+software/RemoteSystemsTempFiles/
