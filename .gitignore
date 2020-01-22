@@ -14,7 +14,7 @@ nios2_PIOLED_qsys/
 #Nios Software Builder tools intermedate files
 software/nios2_PIOLED_sw_bsp/obj/
 software/nios2_PIOLED_sw_bsp/HAL/
-software/nios2_PIOLED_sw_bsp/driver/
+software/nios2_PIOLED_sw_bsp/drivers/
 software/nios2_PIOLED_sw_bsp/*.a
 software/nios2_PIOLED_sw_bsp/summary.html
 software/nios2_PIOLED_sw_bsp/Makefile
