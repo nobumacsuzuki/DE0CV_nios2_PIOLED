@@ -22,6 +22,8 @@
 /software/nios2_PIOLED_sw_bsp/mem_init.mk
 /software/nios2_PIOLED_sw_bsp/public.mk
 /software/nios2_PIOLED_sw_bsp/system.h
+/software/nios2_PIOLED_sw_bsp/
+
 
 /software/nios2_PIOLED_sw/.settings/
 /software/nios2_PIOLED_sw/obj/
